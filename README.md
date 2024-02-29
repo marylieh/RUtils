@@ -19,7 +19,7 @@ The RUtils bot has many features. Some of the features are:
 
 ## Usage
 
-You can download new newest binary from the CircleCI build artifacts [here](#) or you can download the last stable release from the [releases](https://github.com/marylieh/dcutils/releases) page.
+You can download new newest binary from the GitHub Actions build artifacts [here](https://github.com/marylieh/RUtils/actions) or you can download the last stable release from the [releases](https://github.com/marylieh/dcutils/releases) page.
 
 In the environment where the bot will run, you need the following environment variables:
 
