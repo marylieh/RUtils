@@ -24,5 +24,6 @@ You can download new newest binary from the GitHub Actions build artifacts [here
 In the environment where the bot will run, you need the following environment variables:
 
 - `DISCORD_TOKEN` - The token of the bot.
+- `GUILD_ID` - The id of the guild where the bot will be used.
 
 A public docker image on docker hub can also be found [here](https://hub.docker.com/repository/docker/asmax15/rutils/general).
