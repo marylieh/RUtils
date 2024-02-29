@@ -25,4 +25,4 @@ In the environment where the bot will run, you need the following environment va
 
 - `DISCORD_TOKEN` - The token of the bot.
 
-A public docker image on docker hub can also be found [here](#).
+A public docker image on docker hub can also be found [here](https://hub.docker.com/repository/docker/asmax15/rutils/general).
