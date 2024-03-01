@@ -4,4 +4,4 @@ pub mod modal;
 pub mod numberinput;
 pub mod ping;
 pub mod welcome;
-pub mod wonderful_commands;
+pub mod wonderful_command;
